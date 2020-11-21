@@ -10,7 +10,7 @@
 ### 所用第三方库及版本：
 	PIL.Image os io numpy json
 
-##第二阶段：
+## 第二阶段：
 ### 算法释义：
 	详见 ./Report/Report.md
 ### 所用第三方库及版本：
